@@ -1,0 +1,23 @@
+
+
+en la linea de comandos bash verificar version de python 3 o superior
+
+python--version
+
+ahora instalar el administrador de entornos virtuales
+
+pip install virtualenv
+
+ahora creamos la instancia virtual para alojar el proyecto
+
+virtualenv "nombre"
+virtualenv env
+
+ahora activaremos el entorno virtual con el activador (.bat)
+
+source env/scripts/activate
+
+Momento de instalar el primer package 
+
+pip install django
+
